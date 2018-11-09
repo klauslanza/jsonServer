@@ -1,4 +1,4 @@
-"values": [{
+{"values": [{
   "devices.action.onOff": true
 }, {
   "devices.action.fanMode": 0
@@ -19,3 +19,4 @@
 }, {
   "devices.action.timer.active": true
 }]
+}
