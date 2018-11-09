@@ -1,0 +1,21 @@
+"values": [{
+  "devices.action.onOff": true
+}, {
+  "devices.action.fanMode": 0
+}, {
+  "devices.action.fanIntensiveOnOff": false
+}, {
+  "devices.action.fanSpeed": 4
+}, {
+  "devices.action.filter.active": true
+}, {
+  "devices.action.filter.worn": false
+}, {
+  "devices.action.lightOnOff": true
+}, {
+  "devices.action.lightBrightness": 100
+}, {
+  "devices.action.lightColorTemperature": 50
+}, {
+  "devices.action.timer.active": true
+}]
